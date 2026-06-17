@@ -55,7 +55,7 @@ I design and operate production cloud infrastructure — from bare Azure Landing
 
 ## 🚀 Shipped Work
 
-### AI Innovation Platform — Africa's Largest Bank
+### AI Innovation Platform — African Tier1 Bank
 Started with an empty subscription. Ended with a production-ready Azure Landing Zone serving thousands of bank employees across five subsidiaries. Every resource provisioned via Terraform — VNets, private endpoints, App Services, Cosmos DB, Redis Cache, Key Vault — wired together with Azure DevOps pipelines and an AI layer built on Azure AI Foundry for LLM-assisted scoring. Nothing was ClickOps. Every environment (dev, test, prod) reproducible and version-controlled from day one.
 
 `Azure Landing Zone` `AKS` `Azure AI Foundry` `Cosmos DB` `Terraform` `Azure DevOps` `Private Endpoints` `Entra ID / SSO`
@@ -63,7 +63,7 @@ Started with an empty subscription. Ended with a production-ready Azure Landing 
 ---
 
 ### SAP Order-to-Delivery Platform — Global FMCG Enterprise
-Not a side project — the order management backbone for one of Africa's largest conglomerates, processing thousands of transactions daily across a nationwide distribution network. Built the Azure infrastructure connecting SAP to the cloud: event-driven messaging via Service Bus and Event Hubs, secure private networking between on-prem SAP systems and Azure, and AKS clusters running the microservices layer. Had to be highly available, auditable, and resilient enough for enterprise-grade SLAs.
+An order management backbone for one of Africa's largest conglomerates, processing thousands of transactions daily across a nationwide distribution network. Built the Azure infrastructure connecting SAP to the cloud: event-driven messaging via Service Bus and Event Hubs, secure private networking between on-prem SAP systems and Azure, and AKS clusters running the microservices layer. Had to be highly available, auditable, and resilient enough for enterprise-grade SLAs.
 
 `SAP Integration` `Service Bus` `Event Hubs` `Apache Kafka` `AKS` `Hub-Spoke VNet` `ExpressRoute` `RBAC Governance`
 
