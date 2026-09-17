@@ -103,7 +103,6 @@ For nearly three years, owned complex Azure cases from open to resolution — Ap
 
 ## 📍 Lagos, Nigeria · Open to remote
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ugwulo)
-[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://ugwulo.hashnode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-ukpozi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jukpozi@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jaeveloper.github.io-161b22?style=flat-square&logo=github&logoColor=white)](https://jaeveloper.github.io/jaeveloper/)
