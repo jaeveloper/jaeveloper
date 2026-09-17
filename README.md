@@ -2,7 +2,7 @@
 
 > Cloud Infrastructure Engineer · Azure SME · AWS · DevOps · Systems & IT Admin · Hybrid Cloud
 
-I design and operate production cloud infrastructure — from bare Azure Landing Zones and multi-tenant AKS clusters to full end-to-end CI/CD pipelines that take code from commit to deployment without a human in the loop. On the systems side, I manage Linux servers and Windows environments, Active Directory, and hybrid connectivity between on-prem and cloud. I've worked deep inside Microsoft Azure — resolving complex networking cases, running enterprise migrations, and building platforms that banks and large enterprises run critical operations on.
+I design and operate production cloud infrastructure from bare Azure Landing Zones and multi-tenant AKS clusters to full end-to-end CI/CD pipelines that take code from commit to deployment without a human in the loop. On the systems side, I manage Linux servers and Windows environments, Active Directory, and hybrid connectivity between on-prem and cloud. I've worked deep inside Microsoft Azure resolving complex networking cases, running enterprise migrations, and building platforms that banks and large enterprises run critical operations on.
 
 🔗 **[View full portfolio → jaeveloper.github.io/jaeveloper](https://jaeveloper.github.io/jaeveloper/)**
 
